@@ -1,6 +1,3 @@
-z=input('enter a number ')
-x=input('enter another number ')
-x=int(x)
-z=int(z)
-print('the sum of the given numbers is:',z+x)
-print('hello world')
+a=input('enter a number: ')
+squareN=a*a
+print('the square number is ',squareN)
