@@ -1,10 +1,3 @@
-a=input('what is your name? ')
-print('Hi',a ,'what are you doing')
-b=150
-c=50
-print(b/c)
-print(b+c)
-#pro
 z=input('enter a number ')
 x=input('enter another number ')
 x=int(x)
